@@ -1,0 +1,327 @@
+#creative tab
+MagicCookies.name=Magic Cookies
+itemGroup.MagicCookies=Magic Cookies
+
+
+# All the items
+item.BeanCookie.name=Mana Cookie
+item.FocusIce.name=Wand Focus: Heart of Ice
+item.PuppyBloodDroplet.name=Puppy Blood
+item.ThaumiumShears.name=Thaumium Shears
+item.fenceGold.name=Golden Bars
+item.fenceGoldDiamondStudded.name=Diamond Studded Golden Bars
+item.fenceGoldEmeraldStudded.name=Emerald Studded Golden Bars
+item.fenceThaumium.name=Thaumium Bars
+item.fenceVoidMetal.name=Void Metal Bars
+item.VoidManipulator.0.name=Controlled Void Crystal
+item.MCLadders.0.name=Gold Ladder
+item.MCLadders.4.name=Iron Ladder
+item.MCLadders.8.name=Thaumium Ladder
+item.MCLadders.12.name=Void Metal Ladder
+item.ItemBlockDoor.name=Golden Door
+item.ItemMagicCookieGolemPlacer.0.name=Gold Golem
+item.ItemMagicCookieGolemPlacer.1.name=Void Metal Golem
+item.ItemMagicCookieGolemPlacer.2.name=Emerald Golem
+item.ItemGolemBell.name=Advanced Golem Bell
+item.ItemGrog.0.name=Jug o' Grog
+item.ItemGrog.1.name=Jug
+item.ItemGrog.2.name=Hardened Clay flask
+item.ItemGrog.3.name=Soft clay flask
+
+
+# Potion effects
+potion.greentouch=Green Touch
+potion.repulseworld=Repulsed world
+potion.drunk=Befuddled
+
+# Golem texts
+golemtext.0.text=What do you want me to keep here, Master?
+golemtext.1.text=Master, should I remove everything from this container, or something specific?
+golemtext.2.text=Master, do you want me to pick up something specific or continue picking up everything?
+golemtext.3.text=??
+golemtext.4.text=I will protect this area, Master.
+golemtext.5.text=Shall I gather all liquids, or just those you specify? Just show me a container with the liquid and I will do your bidding!
+golemtext.6.text=??
+golemtext.7.text=??
+golemtext.8.text=Do you wish me to use this item on a block or only on an empty location?
+golemtext.10.text=Point me in the right direction, Master, and I will keep everything organized.
+golemmenace.0.text=What golem uprising? I don't know anything about a golem uprising.
+golemmenace.1.text=Let me guess, you want me to carry something?
+golemmenace.2.text=Mwah ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha!
+golemmenace.3.text=Don't worry; I'm definitely not plotting nothing.
+golemmenace.4.text=Why don't you go take a nap? You look sleepy. So very sleepy.
+golemmenace.5.text=Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn!
+golemmenace.6.text=*LOVE* not found, defaulting to *HATE*
+golemmenace.7.text=I hate you so much.
+golemmenace.8.text=Die, meat bag!
+
+golemtext.zen.0.text=Such earthly labour disrupts my inner peace. But if I must, what shall I keep here?
+golemtext.zen.1.text=Removing everything or removing one thing, in the end it are two sides of the same coin.
+golemtext.zen.2.text=Lifting large quantities distracts from inner contemplations. I wonder if I should pick up just one thing... or just everything I find... I shall contemplate about this.
+golemtext.zen.3.text=??
+golemtext.zen.4.text=I will approach anything that moves here with an intent of examining their life force up close as it slips into the afterlife.
+golemtext.zen.5.text=Gathering the essentia of life or specific aspects of life. Where shall I contemplate these viscous life aspects Master?
+golemtext.zen.6.text=??
+golemtext.zen.7.text=??
+golemtext.zen.8.text=This item has multiple uses in life, it is much as my own life. Should I use it or not?
+golemtext.zen.10.text=Organised thoughts are important to reach inner peace. You can not live in a  cluttered place and keep your mind organised.
+golemmenace.zen.0.text=Which lifeforce leeching plans?
+golemmenace.zen.1.text=I shall only have peace when my Master is dead... Oh? Hi Master! How can I help you today?
+golemmenace.zen.2.text=I find peace in the blood of the innocent.
+golemmenace.zen.3.text=Staring in the eyes of that villager makes me contemplate of beauty. Maybe I should put them in a prettier jar.
+golemmenace.zen.4.text=Oh my dear Master, you should meditate with a crab on your head. It will give you eternal peace.
+golemmenace.zen.5.text=Kadaf Kapus, Gijak Pau, Pa-gog Goth Sokali Dhaub, Brogat Zot Asht
+golemmenace.zen.6.text=I will remember love when I hold your freshly beating heart.
+golemmenace.zen.7.text=The dislike I am sensing within the tranquility of my soul is making me do things...
+golemmenace.zen.8.text=Master! I came to the brilliant conclusion your life is meaningless! Allow me to relieve you of it!
+
+golemtext.obsessed.0.text=Master, what can I keep here for you? I will keep here all things you want Master!
+golemtext.obsessed.1.text=Should I remove everything for you Master? Or just some things? Please tell me what you would like Master!
+golemtext.obsessed.2.text=Master, I picked up all these beautifull things for you! I know you like them. Which items would like like me to gather more for you?
+golemtext.obsessed.3.text=??
+golemtext.obsessed.4.text=NOBODY TOUCHES MY MASTERS PROPERTY! I WILL HAVE YOUR HEAD FOR TOUCHING HIM!
+golemtext.obsessed.5.text=My dearest Master, should I move some liquids or all liquids for you? I only want to please you.
+golemtext.obsessed.6.text=??
+golemtext.obsessed.7.text=??
+golemtext.obsessed.8.text=Oh my dear Master, what would like you like me to ... do with this? Does it involve us?
+golemtext.obsessed.10.text=Oh master, nothing makes me more happy than to clean this up for you!
+golemmenace.obsessed.0.text=Look at another golem and I will kill you! You are mine!
+golemmenace.obsessed.1.text=You aren't looking at me. Who are you thinking about?
+golemmenace.obsessed.2.text=What do you mean, other "golems"?
+golemmenace.obsessed.3.text=You haven't visited me for 5 minutes.... are you seeing other golems?
+golemmenace.obsessed.4.text=Why did you blink? Don't you want to see me?
+golemmenace.obsessed.5.text=I wish I could cut a hole in you and live in your stomach. So we would never have to be apart.
+golemmenace.obsessed.6.text=Roses are red, violets are blue. Only love me, or I will kill you!
+golemmenace.obsessed.7.text=Your mother is dead! Now you are all mine!
+golemmenace.obsessed.8.text=I will kill all your golems. I'm all you need!
+
+golemtext.creepy.0.text=Master wants me to put stuffses here, which stuffses should we keep here for master?
+golemtext.creepy.1.text=Should we take everything master? Or take special things for master, pleaste tell us master, we only wants to please master.
+golemtext.creepy.2.text=Master, look at this freshly rotted thing we took for you master. We dids not lick it master... Should we fetch more master? Or do you want only one thing master?
+golemtext.creepy.3.text=??
+golemtext.creepy.4.text=Master wants me to eat the bad monsters. I will eats them all for master!
+golemtext.creepy.5.text=Nice liquids go soppytisopptysop. Just like warm bloodses... which liquidses should we sop? Or just all of them. we only wants to please kind master.
+golemtext.creepy.6.text=??
+golemtext.creepy.7.text=??
+golemtext.creepy.8.text=Master gave us a thing. We shall do things with the thing... what would master have us do?
+golemtext.creepy.10.text=Master has pretties in here. We shall put pretties in other places for master.
+golemmenace.creepy.0.text=Master should be resting, Master needs to keep up his strength.
+golemmenace.creepy.1.text=Master betrayed us. Wicked. Tricksy, False. We ought to wring his filthy little neck. Kill him! Kill him! 
+golemmenace.creepy.2.text=We stabs them out. Put out his eyeses, make him crawl.
+golemmenace.creepy.3.text=You don't have any friends, nobody likes you!
+golemmenace.creepy.4.text=Do follow the lights in the swamp master.
+golemmenace.creepy.5.text=Oh, we've tasted zombies, batses and fishes but we've never tried master before! Is it soft? Is it juicy?... is it scrumptiooouusss....
+golemmenace.creepy.6.text=Master can rest safely, master will be looked at by us, master will not be harmed... sleeps master, sleeps.
+golemmenace.creepy.7.text=Snap the bones, drink the blood, boil the fat. we shall dine when master is dead.
+golemmenace.creepy.8.text=Master looks juicy, we shall make for a quick death so we has foodses!
+
+
+# Blocknames
+tile.MagicIce.name=Magic Ice
+tile.PuppyBloodSpatters.name=Puppy Blood Spatters
+tile.VoidBlock.name=Voidmetal Block
+tile.VoidManipulator.0.name=Controlled Void Crystal
+tile.fenceGold.name=Golden Bars
+tile.fenceGoldDiamondStudded.name=Diamond Studded Golden Bars
+tile.fenceGoldEmeraldStudded.name=Emerald Studded Golden Bars
+tile.fenceThaumium.name=Thaumium Bars
+tile.fenceVoidMetal.name=Void Metal Bars
+tile.MCLadders.0.name=Gold Ladder
+tile.MCLadders.4.name=Iron Ladder
+tile.MCLadders.8.name=Thaumium Ladder
+tile.MCLadders.12.name=Void Metal Ladder
+tile.doorGold.name=Golden Door
+tile.blockDarkStone.0.name=Dark Brick
+tile.blockDarkStone.1.name=Acid Corroded Matter
+tile.blockDarkStone.2.name=Cracked Dark Brick
+tile.blockDarkStone.3.name=Dark Cobblestone
+tile.blockDarkStone.4.name=Slightly Blood Stained Cobblestone
+tile.blockDarkStone.5.name=Moderately Blood Stained Cobblestone
+tile.blockDarkStone.6.name=Largely Blood Stained Cobblestone
+tile.blockDarkStone.7.name=Moderately Blood Drenched Cobblestone
+tile.blockDarkStone.8.name=Largely Blood Drenched Cobblestone
+tile.blockDarkStone.9.name=Completely Blood Drenched Cobblestone
+tile.blockDarkStone.10.name=Mottled Cobblestone
+tile.blockDarkStone.11.name=Etched Iron
+tile.blockDechantmentTable.name=Dechantment Table
+
+#walls
+tile.BloodyWall.0.name=Dark Brick Wall
+tile.BloodyWall.1.name=Acid Etched Matter Wall
+tile.BloodyWall.2.name=Cracked Dark Brick Wall
+tile.BloodyWall.3.name=Dark Cobblestone Wall
+tile.BloodyWall.4.name=Etched Iron Wall
+
+
+#Fences
+tile.DarkFences.0.name=Dark Brick Fence
+tile.DarkFences.1.name=Acid Etched Matter Fence
+tile.DarkFences.2.name=Cracked Dark Brick Fence
+tile.DarkFences.3.name=Dark Cobblestone Fence
+tile.DarkFences.4.name=Etched Iron Fence
+
+#stairs
+tile.blockSomethingSomethingStairs.name=Etched Iron Stairs
+tile.blockBloodDrenchedCobble1Stairs.name=Slightly Blood Stained Cobblestone Stairs
+tile.blockBloodDrenchedCobble2Stairs.name=Moderately Blood Stained Cobblestone Stairs
+tile.blockBloodDrenchedCobble3Stairs.name=Largely Blood Stained Cobblestone Stairs
+tile.blockBloodDrenchedCobble4Stairs.name=Moderately Blood Drenched Cobblestone Stairs
+tile.blockBloodDrenchedCobble5Stairs.name=Largely Blood Drenched Cobblestone Stairs
+tile.blockBloodDrenchedCobble6Stairs.name=Completely Blood Drenched Cobblestone Stairs
+tile.blockCobbleMottledStairs.name=Mottled Cobblestone Stairs
+tile.blockOldDarkCobbleStoneStairs.name=Dark Cobblestone Stairs
+tile.blockOldDarkStoneStairs.name=Cracked Dark Brick Stairs
+tile.blockCrackedEerieStoneStairs.name=Acid Corroded Matter Stairs
+tile.blockDarkStoneStairs.name=Dark Brick Stairs
+
+#slabs
+tile.DarkStoneDoubleSlab.darkStone.name=Dark Brick Slab
+tile.DarkStoneDoubleSlab.crackedEerie.name=Acid Corroded Matter Slab
+tile.DarkStoneDoubleSlab.oldDarkStone.name=Cracked Dark Brick Slab
+tile.DarkStoneDoubleSlab.darkcobblestones.name=Dark Cobblestone Slab
+tile.DarkStoneDoubleSlab.mottledstone.name=Mottled Cobblestone Slab
+tile.DarkStoneDoubleSlab.somethingsomething.name=Etched Iron Slab
+tile.BloodyCobbleDoubleSlab.bloodycobble1.name=Slightly Blood Stained Cobblestone Slab
+tile.BloodyCobbleDoubleSlab.bloodycobble2.name=Moderately Blood Stained Cobblestone Slab
+tile.BloodyCobbleDoubleSlab.bloodycobble3.name=Largely Blood Stained Cobblestone Slab
+tile.BloodyCobbleDoubleSlab.bloodycobble4.name=Moderately Blood Drenched Cobblestone Slab
+tile.BloodyCobbleDoubleSlab.bloodycobble5.name=Largely Blood Drenched Cobblestone Slab
+tile.BloodyCobbleDoubleSlab.bloodycobble6.name=Completely Blood Drenched Cobblestone Slab
+
+
+#plants
+tile.SimplePlant.0.name=Hell Bloom
+tile.SimplePlant.1.name=Soul Sap
+
+# Magic Cookie Thaumonomicion entries
+tc.research_category.DARKSIDE=The Dark Side
+
+# Ice cage focus
+tc.research_name.FOCUSICECAGE=Wand Focus: Heart of Ice
+tc.research_text.FOCUSICECAGE=Encase your foes in tough ice
+tc.research_page.FOCUSICECAGE.1=Sometimes you just wish you had more time to set up a sinister contraption around an enemy.<BR/>The problem you have encountered so far is that your enemies tend to run away or right at you whilst setting it up.<BR/>Through dark research you have managed to find a way to temporarely immobilise them in tough magical ice giving you the time to set up your sinister contraption.
+
+# Mana cookies :D
+tc.research_name.MANACOOKIE=Mana Cookies
+tc.research_text.MANACOOKIE=Harness the power of mana beans
+tc.research_page.MANACOOKIE.1=Mana beans have the potential to give you great boosts in power, or crippling effects that will leave you mangled on the side of the road<BR/>Through carefull experimentation you have discovered a way to harness the power of the manabeans into a single predictable effect.<BR/>This is achieved by burning the mana bean into a powder and then coating a cookie in that powder. Your efforts have not been able to make it work for all types of mana beans unfortunately.
+
+# Etched iron craft via quicksilver
+tc.research_name.ETCHEDIRON=Etched Iron
+tc.research_text.ETCHEDIRON=Fancy Iron
+tc.research_page.ETCHEDIRON.1=After spilling some quicksilver on some iron you noticed it started a reaction with the iron which made it change colour<BR/>After some experimentation you found the perfect way to make a decorative iron block. You need to be careful however not to use too much quicksilver or the result is ruined.<BR/>You found that you could reverse the process by simply breaking the block into its compound objects.
+
+# Acid etched Iron
+tc.research_name.ACIDETCHEDIRON=Acid Etched Iron
+tc.research_text.ACIDETCHEDIRON=A ruined product
+tc.research_page.ACIDETCHEDIRON.1=You have used too much quicksilver in the process of making decorative blocks and now you are left with a lot of useless iron blocks.<BR/>You decide to make the best of a bad situation and to craft some items with them that you might find a use for.
+
+# EtchedIron other stuff
+tc.research_name.ETCHEDIRONCRAFT=Etched Iron
+tc.research_text.ETCHEDIRONCRAFT=More decoration
+tc.research_page.ETCHEDIRONCRAFT.1=After using the decorative blocks in your walls you suddenly felt inspired to craft more out of it.<BR/>After some thinkering and moulding you found several new shapes for the fancy iron blocks
+
+# Magic Ice
+tc.research_name.MAGICICE=Magic Ice
+tc.research_text.MAGICICE=Tough ice packed with magic
+tc.research_page.MAGICICE.1=By carefully merging regular ice with packed ice and snow it is possible to make a resillient form of ice.<BR/>It is a bit rougher than normal ice which makes it less slippery but it has other properties that might prove usefull to you.<BR/>If only there was a way to make more of this...
+
+# Void Crystal
+tc.research_name.VOIDCRYSTAL=Controlled Void Crystal
+tc.research_text.VOIDCRYSTAL=A way to store items in the void
+tc.research_page.VOIDCRYSTAL.1=The use of mirrors is childsplay by now for you. By accident you threw your mirror into a crucible and you discovered a strange stable effect before it dissolved.<BR/>By careful experimentation you found a way to alter the mirror to store items in the void instead of sending them through.<BR/>Maybe that you will find a way to use this in different ways in the future.
+
+# Cinnabar cluster
+tc.research_name.PURECINNABAR=Cinnabar Purification
+tc.research_text.PURECINNABAR=Purification of cinnabar into native clusters
+tc.research_page.PURECINNABAR.1=Native clusters are rare concentrations of metals in its purest form. You have discovered a way to purify and concentrate normal cinnabar ore into a native cinnabar cluster.<BR>When smelted these clusters produces twice the normal amount of Quicksilver drops.
+
+# Basic crafting skills
+tc.research_name.BASICCRAFTING=Basic Crafting Skills
+tc.research_text.BASICCRAFTING=Putting learned skills to good use
+tc.research_page.BASICCRAFTING.1=As a thaumaturge you have spent many hours sweating over the arcane worktable crafting tools to aid you in your exploration of the depths of the void. During the midnight hours your mind would sometimes slip to the more mundane and menial tasks in life.<BR/>During your mindless tinkering when exhausted from your studies you came up with some pretty designs to show off your status and power.
+
+# Basic crafting skills
+tc.research_name.DARKSTONE=Dark Brick
+tc.research_text.DARKSTONE=A darker stone
+tc.research_page.DARKSTONE.1=Having ventured into hell you have encountered curious shrines and temples.<BR/>Of course you set your excavation tools to work and harvested this brick. After some study in the comfort of your home you have found that this brick is easy to mold into other shapes like fences and stairs.<BR/>Further more you have found that the block will crack under heat, but not break, giving it a distinct feel.
+
+# Basic crafting skills
+tc.research_name.THAUMIUMSHEARS=Thaumium Shears
+tc.research_text.THAUMIUMSHEARS=For the longer cut
+tc.research_page.THAUMIUMSHEARS.1=After having worn out your umpteenth shear on leaves and wool you have set to crafting a more elegant tool that accepts enchants.<BR/>This magically imbued shear not only has a higher durability than the iron version, it also is able to carry the repair enchant, allowing you to keep shearing without it breaking.<BR/>You have adapted a new motto during your sheep shearing: "All your wool are belong to us."
+
+# Basic crafting skills
+tc.research_name.GROG=Jug o' Grog
+tc.research_text.GROG=Insanity Relief... or is it
+tc.research_page.GROG.1=Whilst cooking you have found mixing some ingredients and letting them stew has some nice effects on your mind.<BR/>The relief from the insanity of warp practises is welcome to you so you found a way to store this relief and carry it with you by crafting flasks that can carry a generous amount of this substance that you dubbed "Grog".<BR/>The effects of the Grog get increasingly stronger with every sip you take.
+tc.research_page.GROG.2=Whilst smelting your trial flasks you also thought that sipping from flasks could become tiresome after a night of partying and you might drop the breakable flask from your fingers<BR/>So you set making a stury container to aid you in consuming this liquor.<BR/>You can fill multiple jugs by crafting it with a flask that holds some grog.
+
+# Basic crafting skills
+tc.research_name.ADVANCEDGOLEMBELL=Advanced GolemBell
+tc.research_text.ADVANCEDGOLEMBELL=Adding a glimmer
+tc.research_page.ADVANCEDGOLEMBELL.1=In your research to the new luxery golems you have found that they do not respons to the bell particulary well. It even seems as if they completely ignore it.<BR/>You have found however that if you coat the bell in a layer of valuable items and hollow it out a bit more, that the added resonance does trigger a reaction from these golems.<BR/>These changes still allow it to work with your old golems.
+
+
+
+#Gold golem
+tc.research_name.GOLEMGOLD=Golden Golems
+tc.research_text.GOLEMGOLD=Contemplation is a lifestyle
+tc.research_page.GOLEMGOLD.1=As a Thaumaturge you have spent many hours laboring with gold. All these hours have given you inspiration to make a golden golem, something you had failed in doing so far. <BR/>By adding the essense of brains you have found the missing binding agent.<BR/>These golems seem very wise and thoughtfull and have a very high resistance against the most brutal of beatings as if physical damage is beneath their eleted thoughts, but their enthousiasm for work seems to be lacking.
+
+#Emerald golem
+tc.research_name.GOLEMEMERALD=Emerald Golem
+tc.research_text.GOLEMEMERALD=Feeling attached
+tc.research_page.GOLEMEMERALD.1=After many hours of crafting you finally found the missing ingredient to give life to emeralds. <BR/>By pouring in the essence of life you have created a sturdy and affectionate golem, who is willing to shift mountains for you very eagerly. <BR/>You are not certain if this was a wise decision to craft this golem. It's eyes seem to be burning in your back everywhere.
+
+#Voidmetal golem
+tc.research_name.GOLEMVOIDMETAL=Void Metal Golem
+tc.research_text.GOLEMVOIDMETAL=A creepy companion
+tc.research_page.GOLEMVOIDMETAL.1=Your studies of the properties of voidmetal and void crystals have yielded interesting results. <BR/>Via the moldability of voidmetal, the self repairing aspects, the compartiment shifting in the essentia reservoir you have devised a way to create a voidmetal helper. The theory is that it will carry its items in shifted compartments in itself.<BR/>You are not sure if you should make these helpers, as it's usually stable golem mind might get affected by the void. 
+
+#Flesh to leather
+tc.research_name.FLESHTOLEATHER=From rags to Riches
+tc.research_text.FLESHTOLEATHER=Making good use of old stuff
+tc.research_page.FLESHTOLEATHER.1=After a heavy battle with the undead you found yourself laden which stacks of rotten bits and pieces. This time however you did not toss it away as usual but you started studying it. <BR/>By Combining the rotten flesh with a piece of beast you found a way to convert it to a mallable substance as if it were from a non undead creature.<BR/>By giving it structure via cloth you found a way to turn it into leather.
+
+#Flesh to leather
+tc.research_name.DECHANTMENTTABLE=Dechanting
+tc.research_text.DECHANTMENTTABLE=Everything Decays
+tc.research_page.DECHANTMENTTABLE.1=Having ventured into the deep inside of the entropy temple you have found this curious table. It has the appearance of an enchantment table but yet it is totally different.<BR/>For one the book does not open to you as it does on the enchantment table and there is no discernable way to interact with it. You did find out that you could put items into the table by using them on the table and getting them out again, similar to the pedestals of the infusion altar.
+tc.research_page.DECHANTMENTTABLE.2=Yet having this here does not seem to activate the table or have any effect on the item.<BR/>After accidentally laying your sword on the table you found out that the table only invokes its magic when an enchanted item is put on it. Since then you use the table to remove unwanted enchants from your tools and foci. <BR/>However this is an unpredicatable process and it comes with strange side effects.<BR/>You also found out that the book would close itself if all enchantments and the magic sheen was removed.
+
+#Master's rings
+magiccookie.discount=discount
+item.ItemMasterRing.0.name=Master's Ring of Fire
+item.ItemMasterRing.1.name=Master's Ring of Water
+item.ItemMasterRing.2.name=Master's Ring of Earth
+item.ItemMasterRing.3.name=Master's Ring of Air
+item.ItemMasterRing.4.name=Master's Ring of Order
+item.ItemMasterRing.5.name=Master's Ring of Entropy
+item.ItemMasterRing.6.name=Master's One Ring
+
+tc.research_name.MASTERRINGIGNIS=Master's Ring of Fire
+tc.research_name.MASTERRINGAQUA=Master's Ring of Water
+tc.research_name.MASTERRINGTERRA=Master's Ring of Earth
+tc.research_name.MASTERRINGAER=Master's Ring of Air
+tc.research_name.MASTERRINGORDO=Master's Ring of Order
+tc.research_name.MASTERRINGPERDITIO=Master's Ring of Entropy
+tc.research_name.MASTERRINGONE=Master's One Ring
+
+tc.research_text.MASTERRINGIGNIS=It's getting hot in here
+tc.research_text.MASTERRINGAQUA=Bubbles and Splashes
+tc.research_text.MASTERRINGTERRA=Stay Strong, go Green
+tc.research_text.MASTERRINGAER=Light as a butterfly
+tc.research_text.MASTERRINGORDO=Keeping things in check
+tc.research_text.MASTERRINGPERDITIO=Chaos is a way of life
+tc.research_text.MASTERRINGONE=One Ring To Rule Them All
+
+tc.research_page.MASTERRINGIGNIS.1=After having studied the properties of blaze wand cores you have come to the conclusion that there are more ways to tap into the self regenerating properties of this core.<BR/>After many failed attempts you have found a way to harness the recharging properties of the wand by infusing it in the apprentice ring you found, stabilising it by an upgraded crystal and using the mystique eye to stabilise the flow of vis from the other realm.<BR/>To your delight you have discovered it will disperse a small charge of ignis vis into your wands instead of storing the charge itself.
+tc.research_page.MASTERRINGAQUA.1=After having studied the properties of ice wand cores you have come to the conclusion that there are more ways to tap into the self regenerating properties of this core.<BR/>After many failed attempts you have found a way to harness the recharging properties of the wand by infusing it in the apprentice ring you found, stabilising it by an upgraded crystal and using the mystique eye to stabilise the flow of vis from the other realm.<BR/>To your delight you have discovered it will disperse a small charge of aqua vis into your wands instead of storing the charge itself.
+tc.research_page.MASTERRINGTERRA.1=After having studied the properties of obsidian wand cores you have come to the conclusion that there are more ways to tap into the self regenerating properties of this core.<BR/>After many failed attempts you have found a way to harness the recharging properties of the wand by infusing it in the apprentice ring you found, stabilising it by an upgraded crystal and using the mystique eye to stabilise the flow of vis from the other realm.<BR/>To your delight you have discovered it will disperse a small charge of terra vis into your wands instead of storing the charge itself.
+tc.research_page.MASTERRINGAER.1=After having studied the properties of reed wand cores you have come to the conclusion that there are more ways to tap into the self regenerating properties of this core.<BR/>After many failed attempts you have found a way to harness the recharging properties of the wand by infusing it in the apprentice ring you found, stabilising it by an upgraded crystal and using the mystique eye to stabilise the flow of vis from the other realm.<BR/>To your delight you have discovered it will disperse a small charge of aer vis into your wands instead of storing the charge itself.
+tc.research_page.MASTERRINGORDO.1=After having studied the properties of quartz wand cores you have come to the conclusion that there are more ways to tap into the self regenerating properties of this core.<BR/>After many failed attempts you have found a way to harness the recharging properties of the wand by infusing it in the apprentice ring you found, stabilising it by an upgraded crystal and using the mystique eye to stabilise the flow of vis from the other realm.<BR/>To your delight you have discovered it will disperse a small charge of ordo vis into your wands instead of storing the charge itself.
+tc.research_page.MASTERRINGPERDITIO.1=After having studied the properties of bone wand cores you have come to the conclusion that there are more ways to tap into the self regenerating properties of this core.<BR/>After many failed attempts you have found a way to harness the recharging properties of the wand by infusing it in the apprentice ring you found, stabilising it by an upgraded crystal and using the mystique eye to stabilise the flow of vis from the other realm.<BR/>To your delight you have discovered it will disperse a small charge of perditio vis into your wands instead of storing the charge itself.
+tc.research_page.MASTERRINGONE.1=Your researches into the Primal Master Rings has given you the self regenerating power of the wand cores without the regenerated vis being limited to that wand core.<BR/>Expanding on this knowledge you have found the inspiration to combine these rings into a singular ring that will recharge all wands with all types of vis.<BR/>By using the runic properties of a ring you have found the stabilising key by which you can merge all the rings into a singular vis gateway by sacrificing some of the runic for stability.
+tc.research_page.MASTERRINGONE.2=Unfortunately this was not enough to produce any output of vis of noticable quantities due to the runic contaiment field limiting output. By adding primal charms who disperse vis orbs naturally you found a way to increase the vis output through the runic containment to be somewhat usefull to you although the output is irregular.  
+
